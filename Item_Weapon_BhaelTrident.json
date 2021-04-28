@@ -1,9 +1,9 @@
 {
   "$type": "ThunderRoad.ItemData, Assembly-CSharp",
-  "id": "BhaelTridentBhael",
+  "id": "BhaelTrident",
   "saveFolder": "Bas",
   "version": 4,
-  "localizationId": "BhaelTridentBhael",
+  "localizationId": "BhaelTrident",
   "displayName": "Bhael Trident",
   "description": "Test.",
   "author": "Bhael",
@@ -16,8 +16,8 @@
     "Spears"
   ],
   "iconEffectId": null,
-  "iconAddress": "BhaelTrident.Trident.icon",
-  "prefabAddress": "BhaelTrident.Trident1",
+  "iconAddress": "@bhaeltrident_assets_all:Assets.CC_Assets/Trident.icon",
+  "prefabAddress": "@bhaeltrident_assets_all:Assets.CC_Assets/Trident1.prefab",
   "pooledCount": 0,
   "androidPooledCount": 0,
   "type": "Weapon",
