@@ -16,8 +16,8 @@
     "Spears"
   ],
   "iconEffectId": null,
-  "iconAddress": "@bhaeltrident_assets_all:Assets.CC_Assets/Trident.icon",
-  "prefabAddress": "@bhaeltrident_assets_all:Assets.CC_Assets/Trident1.prefab",
+  "iconAddress": "Trident.icon",
+  "prefabAddress": "Trident1.prefab",
   "pooledCount": 0,
   "androidPooledCount": 0,
   "type": "Weapon",
